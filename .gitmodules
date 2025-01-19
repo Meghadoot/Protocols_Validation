@@ -1,0 +1,6 @@
+[submodule "BT-BLE_Validation"]
+	path = BT-BLE_Validation
+	url = https://github.com/Meghadoot/BT-BLE_Validation.git
+[submodule "Ethernet_Validation"]
+	path = Ethernet_Validation
+	url = https://github.com/Meghadoot/Ethernet_Validation.git
